@@ -1,0 +1,17 @@
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\ConsoleServer.exe
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\ConsoleServer.pdb
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Diagnostics.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Owin.dll
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.xml
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Diagnostics.xml
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\obj\Debug\ConsoleServer.csprojResolveAssemblyReference.cache
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\obj\Debug\ConsoleServer.exe
+D:\work\playground\c#\owin-basic\HelloKatana\ConsoleServer\obj\Debug\ConsoleServer.pdb

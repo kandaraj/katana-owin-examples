@@ -1,0 +1,11 @@
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\HelloKatana.dll.config
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\HelloKatana.dll
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\HelloKatana.pdb
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\obj\Debug\HelloKatana.csprojResolveAssemblyReference.cache
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\obj\Debug\HelloKatana.dll
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\obj\Debug\HelloKatana.pdb
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\Microsoft.Owin.dll
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\Owin.dll
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\Microsoft.Owin.xml
+D:\work\playground\c#\owin-basic\HelloKatana\HelloKatana\bin\Microsoft.Owin.Host.SystemWeb.xml
